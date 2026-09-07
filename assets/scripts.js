@@ -1,4 +1,3 @@
-
 /* Dynamic GitHub gallery for projects/creativity, projects/irnby and projects/clips. */
 const state = { language: 'ru', folder: null, filter: 'all', media: [] };
 
