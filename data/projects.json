@@ -1,0 +1,68 @@
+[
+  {
+    "id": "creativity-01",
+    "title": "New Silhouette",
+    "year": 2025,
+    "description": "Личный эксперимент с формой, светом и пластикой fashion-образа.",
+    "tags": ["Generative AI", "Visual Content"],
+    "repo": "",
+    "demo": "",
+    "images": [],
+    "folder_id": "creativity"
+  },
+  {
+    "id": "creativity-02",
+    "title": "Material Studies",
+    "year": 2025,
+    "description": "Исследование фактур и материалов в цифровой среде.",
+    "tags": ["Generative AI", "Art Direction"],
+    "repo": "",
+    "demo": "",
+    "images": [],
+    "folder_id": "creativity"
+  },
+  {
+    "id": "irnby-01",
+    "title": "IRNBY / Product Story",
+    "year": 2025,
+    "description": "Визуальная концепция для быстрой и выразительной съёмки товара.",
+    "tags": ["Visual Content", "Commercial"],
+    "repo": "",
+    "demo": "",
+    "images": [],
+    "folder_id": "irnby"
+  },
+  {
+    "id": "clips-01",
+    "title": "Impossible Motion",
+    "year": 2025,
+    "description": "Абсурдный AI-клип о движении, которое невозможно снять в реальности.",
+    "tags": ["Generative AI", "Motion"],
+    "repo": "",
+    "demo": "",
+    "images": [],
+    "folder_id": "clips"
+  },
+  {
+    "id": "clips-02",
+    "title": "Dream Sequence",
+    "year": 2025,
+    "description": "Экспериментальная короткая визуальная история.",
+    "tags": ["Generative AI", "Visual Content"],
+    "repo": "",
+    "demo": "",
+    "images": [],
+    "folder_id": "clips"
+  },
+  {
+    "id": "clips-03",
+    "title": "Synthetic Reality",
+    "year": 2025,
+    "description": "Исследование границы между реальным и сгенерированным образом.",
+    "tags": ["Generative AI", "Motion"],
+    "repo": "",
+    "demo": "",
+    "images": [],
+    "folder_id": "clips"
+  }
+]
