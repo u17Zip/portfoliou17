@@ -6,7 +6,7 @@
 ## Структура
 
 - `index.html` — основной интерфейс;
-- `assets/styles.css` — стили, темы и адаптивность;
+- `assets/styles.css` — стили, темы  и адаптивность;
 - `assets/scripts.js` — навигация, поиск, фильтры и папки;
 - `data/projects.json` — данные проектов;
 - `about_me/content_ru.md` — текст раздела «Обо мне»;
